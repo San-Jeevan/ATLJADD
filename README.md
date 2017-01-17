@@ -1,5 +1,7 @@
 # ATLJADD
 
+-photoshop js camanjs
+
 -encrypted attachments
 
 -nav btn --> vidconf webrtc https://github.com/jhuckaby/webcamjs
