@@ -1,5 +1,7 @@
 # ATLJADD
 
+-encrypted attachments
+
 -nav btn --> vidconf webrtc https://github.com/jhuckaby/webcamjs
 -elastic search / translate på alle attachments
 
