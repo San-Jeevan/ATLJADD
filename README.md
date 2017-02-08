@@ -1,5 +1,9 @@
 # ATLJADD
 
+-public agile?
+
+-watch word, mail notif
+
 -anon poll
 
 -paste excel (http://jsfiddle.net/duwood/sTX7y/)
